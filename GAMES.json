@@ -1,12 +1,12 @@
 {
     "games": [{
             "name": "Pubg",
-            "img": "dfgdsf.png",
+            "img": "https://th.bing.com/th/id/R.2411fc6b8233da04c105f17e0a98ae93?rik=qrBQHpRx1P90eg&pid=ImgRaw&r=0",
             "categorie": "shooter"
         },
         {
             "name": "Fortnite",
-            "img": "qsdsq.png",
+            "img": "https://th.bing.com/th/id/OIP.R0rur3dyQQpOsbSK53DhSgHaEK?pid=ImgDet&rs=1",
             "categorie": "shooter"
         }
 
