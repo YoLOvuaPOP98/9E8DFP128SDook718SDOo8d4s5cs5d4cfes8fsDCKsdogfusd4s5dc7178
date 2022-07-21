@@ -2,12 +2,77 @@
     "games": [{
             "name": "PUBG: BATTLEGROUNDS",
             "img": "https://th.bing.com/th/id/R.2411fc6b8233da04c105f17e0a98ae93?rik=qrBQHpRx1P90eg&pid=ImgRaw&r=0",
-            "categorie": "shooter"
+            "categorie": "shooter/fps"
         },
         {
             "name": "Fortnite",
             "img": "https://th.bing.com/th/id/OIP.R0rur3dyQQpOsbSK53DhSgHaEK?pid=ImgDet&rs=1",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "Grand Theft Auto V",
+            "img": "https://th.bing.com/th/id/OIP.iAMjCT4qevEmDtWlgoR4VAHaEo?pid=ImgDet&rs=1",
+            "categorie": "rp/online"
+        },
+        {
+            "name": "Counter-Strike: Global Offensive",
+            "img": "https://th.bing.com/th/id/R.a889353253545684802a7fe85a3759c0?rik=fYwo9EvgYWjymw&riu=http%3a%2f%2fgamehag.com%2fimg%2fnews%2f232900_csgo-review23.jpg&ehk=YKM1xaauefuI5t1CYAugkoia7MgimqvsCqwaanTFLyE%3d&risl=&pid=ImgRaw&r=0",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "VALORANT",
+            "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/08/valorant-key-art-phoenix-and-jett-4k-v5-scaled-e1595960983582-Cropped.jpg",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "Among Us",
+            "img": "https://1.bp.blogspot.com/-Om7Ub0HX1yg/X3slxGmdiXI/AAAAAAAADUc/tcfxNby8chAOnR0unljHSmcYLftYPZBpACLcBGAsYHQ/s1350/image_search_1601906016094.png",
+            "categorie": "Puzzel/Mystery/online "
+        },
+        {
+            "name": "Genshin Impact",
+            "img": "https://th.bing.com/th/id/OIP.HXHk1WX59msePHXP1zYrZwHaDS?pid=ImgDet&rs=1",
+            "categorie": "role play /open world"
+        },
+        {
+            "name": "League of Legends",
+            "img": "https://theleaker.com/wp-content/uploads/2019/05/league-of-legends.jpg",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "Fall guys",
+            "img": "https://th.bing.com/th/id/OIP.dGshopdZTZJc0sk-ifcGrQHaEK?pid=ImgDet&rs=1",
             "categorie": "shooter"
+        },
+        {
+            "name": "Rocket league",
+            "img": "https://th.bing.com/th/id/OIP.dlHM8ns062l3u3nGU4i78gHaEK?pid=ImgDet&rs=1",
+            "categorie": ""
+        },
+        {
+            "name": "Apex Legends",
+            "img": "https://th.bing.com/th/id/OIP.qJKCKwA6h8J2NDv7WIiG9AHaHa?pid=ImgDet&rs=1",
+            "categorie": "shooter"
+        },
+        {
+            "name": "Call of Duty®: Warzone",
+            "img": "https://th.bing.com/th/id/R.c5d7e279200656c9ec4f67fd082e39ba?rik=78MFgpPDFTy7tw&pid=ImgRaw&r=0",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "FIFA 22",
+            "img": "https://th.bing.com/th/id/OIP.R5tCnzsNlXnZA1nYbP3iagHaEK?pid=ImgDet&rs=1",
+            "categorie": "sports/footbale"
+        },
+        {
+            "name": "Brawlhalla",
+            "img": "https://th.bing.com/th/id/OIP.Hsi99fwblWiDGd8SbPNaBgHaEJ?pid=ImgDet&rs=1",
+            "categorie": "platformer/Fight/2d"
+        },
+        {
+            "name": "Raft",
+            "img": "https://th.bing.com/th/id/R.cee06b5ebe1d09a0ce96efe5c3de616c?rik=GxDoDad%2bEcdnLg&riu=http%3a%2f%2fis1.mzstatic.com%2fimage%2fthumb%2fPurple128%2fv4%2f1f%2f03%2f9d%2f1f039dff-03bb-7556-4774-35d007ce66bc%2fsource%2f512x512bb.jpg&ehk=l9i1l27jAL6uM9qDYCZ1UI0IF698%2b6mn7CQpq1cKuUs%3d&risl=&pid=ImgRaw&r=0",
+            "categorie": "survival/online"
         }
 
     ]
