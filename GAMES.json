@@ -73,6 +73,96 @@
             "name": "Raft",
             "img": "https://th.bing.com/th/id/R.cee06b5ebe1d09a0ce96efe5c3de616c?rik=GxDoDad%2bEcdnLg&riu=http%3a%2f%2fis1.mzstatic.com%2fimage%2fthumb%2fPurple128%2fv4%2f1f%2f03%2f9d%2f1f039dff-03bb-7556-4774-35d007ce66bc%2fsource%2f512x512bb.jpg&ehk=l9i1l27jAL6uM9qDYCZ1UI0IF698%2b6mn7CQpq1cKuUs%3d&risl=&pid=ImgRaw&r=0",
             "categorie": "survival/online"
+        },
+        {
+            "name": "eFootball™",
+            "img": "https://th.bing.com/th/id/OIP.s8huXPNTbJm3Npw_4LkSlgHaEK?pid=ImgDet&rs=1",
+            "categorie": "sports"
+        },
+        {
+            "name": "CRSED: F.O.A.D",
+            "img": "https://th.bing.com/th/id/OIP.JSXGBPt8WRtZGmB9bCWxGwHaEK?pid=ImgDet&rs=1",
+            "categorie": "action"
+        },
+        {
+            "name": "Dota 2",
+            "img": "https://thegamerhq.com/wp-content/uploads/2020/08/Dota2-full-game-download-pc.jpg",
+            "categorie": "action/shooter"
+        },
+        {
+            "name": "World of Tanks",
+            "img": "https://th.bing.com/th/id/OIP.HSIU8bCHZYk2KpnqeLSj1wHaEK?pid=ImgDet&rs=1",
+            "categorie": "action"
+        },
+        {
+            "name": "Enlisted",
+            "img": "https://th.bing.com/th/id/R.8cc760a84d7e1a27f32f90abf554e219?rik=H9VouvgGCMxd%2fQ&pid=ImgRaw&r=0",
+            "categorie": "action/war"
+        },
+        {
+            "name": "Age of empires",
+            "img": "https://th.bing.com/th/id/OIP.ASab1nZj6tNzexUUnoDgSQHaEK?pid=ImgDet&rs=1",
+            "categorie": "city"
+        },
+        {
+            "name": "trials rising",
+            "img": "https://th.bing.com/th/id/OIP.G8R--P1XSQtCH1Te1fvsngHaEK?pid=ImgDet&rs=1",
+            "categorie": "sports/drive"
+        },
+        {
+            "name": "Forza Horizon 5",
+            "img": "https://assets-prd.ignimgs.com/2021/08/24/forza-horizon-5-button-fin-1629830068379.jpg",
+            "categorie": "drive"
+        },
+        {
+            "name": "Forza Horizon 4",
+            "img": "https://th.bing.com/th/id/OIP.rkHVKj6HKJaljfKAuNYy3wHaHa?pid=ImgDet&rs=1",
+            "categorie": "drive"
+        },
+        {
+            "name": "Forza Horizon 7",
+            "img": "https://th.bing.com/th/id/R.034aefc88571309cb24625b19582fcb6?rik=xIrGlV6NxG2bTQ&pid=ImgRaw&r=0",
+            "categorie": "drive"
+        },
+        {
+            "name": "ARK: Survival Evolved",
+            "img": "https://th.bing.com/th/id/OIP.FnNMiny6YWNwe8nSAzbjhQHaEK?pid=ImgDet&rs=1",
+            "categorie": "survival"
+        },
+        {
+            "name": "Garena Free Fire",
+            "img": "https://th.bing.com/th/id/R.25f35d97028faf3fe9418bbdb9dd6935?rik=CFDhZr4npiZwAw&pid=ImgRaw&r=0",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "PUBG MOBILE",
+            "img": "https://th.bing.com/th/id/R.1fa4fda55aed0fae093420041ac58ca9?rik=aUQGQEqsoGrQLw&pid=ImgRaw&r=0",
+            "categorie": "shooter/fps"
+        },
+        {
+            "name": "Roller Champions ",
+            "img": "https://th.bing.com/th/id/OIP.XwHb4QYbvknv-jypdMILRwHaEK?pid=ImgDet&rs=1",
+            "categorie": "sports"
+        },
+        {
+            "name": "Minecraft Pe",
+            "img": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/https://img.poki.com/12a0ed7c6bc09b73d6558c6f69ed7f5f.png",
+            "categorie": "survival"
+        },
+        {
+            "name": "Minecraft",
+            "img": "https://store-images.s-microsoft.com/image/apps.2678.14492077886571533.a48e9a4a-99a7-44a9-9d97-9e8e72220a7c.6b98c506-61b7-4126-80b6-449f2ff0fb96?q=90&w=480&h=270",
+            "categorie": "survival"
+        },
+        {
+            "name": "Clash Royale",
+            "img": "https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ",
+            "categorie": "action"
+        },
+        {
+            "name": "Boom Beach",
+            "img": "https://play-lh.googleusercontent.com/OJgNMhXEx9wqGJcPuN9Be4cboh_UXQ-PHOogYXCrTtClzhIWGPUBGV52RQ3FNlcZYUCk",
+            "categorie": "action"
         }
 
     ]
